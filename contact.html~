@@ -24,11 +24,7 @@
 	
 	<div id="right" style="height:100%">
 	<p style="text-align:center">
-	<a style="font-weight:bold">Current Residence</a><br/>
-	<i>
-	Dieburger Str. 77<br/>
-	64287 Darmstadt<br/>
-	Germany<br/><br/>
+
 	<a style="font-weight:bold">Permanent Residence</a><br/>
 	<i>
 	House No. 48, Munirka Enclave<br/>
@@ -37,7 +33,7 @@
 	<a style="font-weight:bold">Email</a><br/>
 	<img src="email_id.jpg"/><br/>
 	<a style="font-weight:bold">Contact</a><br/>
-	+49-151-66059661 (Germany)<br/>
+	+91-8800955365 (Mobile)<br/>
 	+91-11-26191676 (Permanent Residence)<br/>
 	</i>
 	<br/>
@@ -48,7 +44,7 @@
 	</div>
 	</p>
 	<div id="footer">
-	&copy; Krish Perumal, All Rights Reserved
+		&copy; Krish Perumal, All Rights Reserved
 	</div>
 
 </body>
